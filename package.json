@@ -1,0 +1,20 @@
+{
+  "name": "esv-api",
+  "version": "0.0.0",
+  "description": "An API wrapper for ESV (English Standard Version) Bible API.",
+  "main": "esv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scrogson/esv-api"
+  },
+  "keywords": [
+    "esv",
+    "api",
+    "bible"
+  ],
+  "author": "Sonny Scroggin",
+  "license": "BSD"
+}
