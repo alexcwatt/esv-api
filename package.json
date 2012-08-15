@@ -1,7 +1,7 @@
 {
   "name": "esv-api",
   "version": "0.0.0",
-  "description": "An API wrapper for ESV (English Standard Version) Bible API.",
+  "description": "An ESV Bible API wrapper for Node.js",
   "main": "esv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,7 @@
     "bible"
   ],
   "author": "Sonny Scroggin",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+  }
 }
